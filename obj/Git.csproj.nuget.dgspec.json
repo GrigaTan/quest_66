@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79203\\Documents\\Git\\ALEXEI\\ALEXEI.csproj": {}
+    "C:\\Users\\79203\\Documents\\Git\\Git.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79203\\Documents\\Git\\ALEXEI\\ALEXEI.csproj": {
+    "C:\\Users\\79203\\Documents\\Git\\Git.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79203\\Documents\\Git\\ALEXEI\\ALEXEI.csproj",
-        "projectName": "ALEXEI",
-        "projectPath": "C:\\Users\\79203\\Documents\\Git\\ALEXEI\\ALEXEI.csproj",
+        "projectUniqueName": "C:\\Users\\79203\\Documents\\Git\\Git.csproj",
+        "projectName": "Git",
+        "projectPath": "C:\\Users\\79203\\Documents\\Git\\Git.csproj",
         "packagesPath": "C:\\Users\\79203\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79203\\Documents\\Git\\ALEXEI\\obj\\",
+        "outputPath": "C:\\Users\\79203\\Documents\\Git\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
