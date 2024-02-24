@@ -28,7 +28,7 @@ namespace Labyrinth
         }
 
         //При наведении на финишный label появится сообщение.
-        private void labelFinish_MouseEnter(object sender, EventArgs e) => MessageBox.Show("Победа!!!" ",MessageBoxButtons.OK,MessageBoxIcon.Information);
+        private void labelFinish_MouseEnter(object sender, EventArgs e) => MessageBox.Show("Победа!!!" ",Message,BoxButtons.OK,MessageBoxIcon.Information);
 
     }
 
