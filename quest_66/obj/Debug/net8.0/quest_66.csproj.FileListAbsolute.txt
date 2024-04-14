@@ -3,3 +3,13 @@ C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.AssemblyInfoInpu
 C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.AssemblyInfo.cs
 C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.csproj.CoreCompileInputs.cache
 C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.sourcelink.json
+C:\Users\79203\Documents\Git\quest_66\bin\Debug\net8.0\quest_66.exe
+C:\Users\79203\Documents\Git\quest_66\bin\Debug\net8.0\quest_66.deps.json
+C:\Users\79203\Documents\Git\quest_66\bin\Debug\net8.0\quest_66.runtimeconfig.json
+C:\Users\79203\Documents\Git\quest_66\bin\Debug\net8.0\quest_66.dll
+C:\Users\79203\Documents\Git\quest_66\bin\Debug\net8.0\quest_66.pdb
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.dll
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\refint\quest_66.dll
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.pdb
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\quest_66.genruntimeconfig.cache
+C:\Users\79203\Documents\Git\quest_66\obj\Debug\net8.0\ref\quest_66.dll
